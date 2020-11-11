@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { Input, Icon } from 'antd';
+import { Input, Icon , Modal } from 'antd';
 
 export const InputFilterContainer = styled.div`
     margin-bottom: 15px;
@@ -22,3 +22,4 @@ export const IconContainer = styled.div`
 export const ActionContainer = styled.div`
     display: flex;
 `;
+

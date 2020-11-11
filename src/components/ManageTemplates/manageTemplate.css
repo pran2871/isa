@@ -1,0 +1,23 @@
+.ant-modal-content {
+    width: 800px;    /* Occupy the 90% of the screen width */
+} 
+
+.sc-hzDkRC
+{
+    width: 250px;
+    display: inline-block;
+    margin-left: 15px;
+}
+.ant-select-show-arrow{
+    width: auto;
+    min-width: 250px;
+}
+.ant-select{
+    width: 700px;
+}
+.ant-select-selection--multiple {
+    width: 700px;
+}
+.ant-select-selection--single {
+    width: 350px;
+}
